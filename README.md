@@ -5,9 +5,9 @@
 simple-ssh
 ```
 
-| Developer |
-| ------- |
-| MasterLua |
+| Developer | Idea |
+| ------- | ------- |
+| MasterLua | DarlingSh |
 
 You can also write the commands in config.json if you want say evertime same commands. Enjoy !
 
