@@ -1,2 +1,15 @@
-# NodeJS-Sending-Multiple-Commands-SSH
-This script has been created for sending multiple commands in one time on like 200 server linux. You can use it how you want. I get the idea of Darling but him script is a literaly the shit. Enjoy with that.
+# 😑 NodeJS-Sending-Multiple-Commands-SSH - Project
+
+##Dependency :
+```
+simple-ssh
+```
+
+| Developer |
+| ------- |
+| MasterLua |
+
+You can also write the commands in config.json if you want say evertime same commands. Enjoy !
+
+## Exemple : node cnc.js touch ak47.txt
+## Syntax : node cnc.js [COMMANDS]
