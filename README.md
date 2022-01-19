@@ -13,3 +13,6 @@ You can also write the commands in config.json if you want say evertime same com
 
 ## Exemple : node cnc.js touch ak47.txt
 ## Syntax : node cnc.js [COMMANDS]
+
+
+Literaly 30s for dev that
