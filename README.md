@@ -5,7 +5,7 @@
 simple-ssh
 ```
 
-| Developer | Idea |
+| Developer | Idea (shit dev) |
 | ------- | ------- |
 | MasterLua | DarlingSh |
 
