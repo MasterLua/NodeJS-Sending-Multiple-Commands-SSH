@@ -2,7 +2,7 @@ var SSH = require('simple-ssh');
 const server = require('./server.json');
 const config = require('./config.json');
 var HasBeenWaiting = false
-const Commands;
+const Commands = "";
 var HasBeenSending = 0
 
 console.log("[+] Thanks to use my script || Created by Redouu.")
